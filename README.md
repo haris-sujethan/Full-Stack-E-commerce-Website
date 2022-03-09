@@ -1,5 +1,7 @@
 # Full Stack E-commerce-Website
 
+This project is an amazon-clone, with a dedicated login page, home screen, checkout page, and payment page.
+
 ![](images/LoginPage.PNG)
 
 This is the login/register page. Where an existing user can sign in, and a new user can register
